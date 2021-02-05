@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Google Drive/RODOLFO BORTOLUZZI/ESTUDOS/URIJudge/URI1178 Array Fill III/main.cpp
+iostream
+-
+iomanip
+-
+
